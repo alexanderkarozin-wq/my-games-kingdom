@@ -1,0 +1,245 @@
+{
+  "assets": [
+    {
+      "name": "assets/001-mapimage.webp",
+      "mime": "image/webp",
+      "original": "mapImage",
+      "source": "/assets/asset_riSfSHcl7LrbsKeUTA0/map.webp"
+    },
+    {
+      "name": "assets/002-coverimage.webp",
+      "mime": "image/webp",
+      "original": "coverImage",
+      "source": "/assets/asset_N39udbWyTQhu50oBZBM/group-1.webp"
+    },
+    {
+      "name": "assets/003-theme-backgroundimage.webp",
+      "mime": "image/webp",
+      "original": "theme.backgroundImage",
+      "source": "/assets/asset_WiitEZ4FGRD5wXvvU5o/chatgpt-image-19-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-15_51_59-1.webp"
+    },
+    {
+      "name": "assets/004-theme-mapbackdropimage.webp",
+      "mime": "image/webp",
+      "original": "theme.mapBackdropImage",
+      "source": "/assets/asset_fysDieYQJT4XzoHeUwU/back_map.webp"
+    },
+    {
+      "name": "assets/005-theme-music.mp3",
+      "mime": "audio/mpeg",
+      "original": "theme.music",
+      "source": "/assets/asset_aM8bxou_Esy8Wjy_4Rw/music_async_blitz.mp3"
+    },
+    {
+      "name": "assets/006-theme-clicksound.mp3",
+      "mime": "audio/mpeg",
+      "original": "theme.clickSound",
+      "source": "/assets/asset_C90X32m0s91RT-JQEEk/button_click.mp3"
+    },
+    {
+      "name": "assets/007-theme-successsound.mp3",
+      "mime": "audio/mpeg",
+      "original": "theme.successSound",
+      "source": "/assets/asset_dTEzZqFytIIvbzV3ldY/ui_emoji_rafail_saint-mp3cut-net.mp3"
+    },
+    {
+      "name": "assets/008-theme-failsound.mp3",
+      "mime": "audio/mpeg",
+      "original": "theme.failSound",
+      "source": "/assets/asset_f5Ecaw_cWRv9FPQnprE/modificator_failedmerge.mp3"
+    },
+    {
+      "name": "assets/009-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.0.pointImage",
+      "source": "/assets/asset_3PyIBOUNk2QRed67ngE/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-13_06_48-1.webp"
+    },
+    {
+      "name": "assets/010-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.1.pointImage",
+      "source": "/assets/asset_JOujb8t0SeBSurNTjjA/image-3.webp"
+    },
+    {
+      "name": "assets/011-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.2.pointImage",
+      "source": "/assets/asset_SVUec0ysUCk4BPtuIO0/image-15.webp"
+    },
+    {
+      "name": "assets/012-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.3.pointImage",
+      "source": "/assets/asset_r0MhcH9rwav-u1h_ZeM/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-13_22_19-1.webp"
+    },
+    {
+      "name": "assets/013-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.4.pointImage",
+      "source": "/assets/asset_oGvCegVFs52R36f2mz0/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-13_31_56-1.webp"
+    },
+    {
+      "name": "assets/014-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.5.pointImage",
+      "source": "/assets/asset_pmxPxbJErvjdQZtNt78/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-14_01_44-2.webp"
+    },
+    {
+      "name": "assets/015-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.6.pointImage",
+      "source": "/assets/asset_MEgx8CXN5ypDwLasZKc/image-1.webp"
+    },
+    {
+      "name": "assets/016-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.7.pointImage",
+      "source": "/assets/asset_ou-5sjFbHxe7mQoXiAk/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-13_28_26-1.webp"
+    },
+    {
+      "name": "assets/017-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.8.pointImage",
+      "source": "/assets/asset__W39XmR7NyH-s4_onDc/image-7.webp"
+    },
+    {
+      "name": "assets/018-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.9.pointImage",
+      "source": "/assets/asset_pWhljUKFpzCpCRmVCcc/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-13_00_51-1.webp"
+    },
+    {
+      "name": "assets/019-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.10.pointImage",
+      "source": "/assets/asset_LnK7M9vXMZUxE3bwpSo/chatgpt-image-22-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-13_43_40-1.webp"
+    },
+    {
+      "name": "assets/020-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.11.pointImage",
+      "source": "/assets/asset_5sA8DouDyvdAUXKOpFY/chatgpt-image-19-%D0%B8%D1%8E%D0%BD-2026-%D0%B3-15_42_31-2.webp"
+    },
+    {
+      "name": "assets/021-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.12.pointImage",
+      "source": "/assets/asset_wvq5evwdW0Ur2uFj0ZQ/image-8.webp"
+    },
+    {
+      "name": "assets/022-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.13.pointImage",
+      "source": "/assets/asset_5JlRAIel3pRLhLfqUBI/image-16.webp"
+    },
+    {
+      "name": "assets/023-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.14.pointImage",
+      "source": "/assets/asset_lQSGjFflNK3LUAn9teg/image-17.webp"
+    },
+    {
+      "name": "assets/024-points-pointimage.webp",
+      "mime": "image/webp",
+      "original": "points.15.pointImage",
+      "source": "/assets/asset_n2SffjJJFkgkR-3HpZc/image-18.webp"
+    },
+    {
+      "name": "assets/025-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.0.contentImage",
+      "source": "/assets/asset_PlTcAp5KGL5oKfDF5zg/frame-3.webp"
+    },
+    {
+      "name": "assets/026-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.1.contentImage",
+      "source": "/assets/asset_sb-EJ6ZGt_91GuFA5sE/frame-9.webp"
+    },
+    {
+      "name": "assets/027-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.2.contentImage",
+      "source": "/assets/asset_NNG7vQ7ATk7mrUq_pUw/group-3.webp"
+    },
+    {
+      "name": "assets/028-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.3.contentImage",
+      "source": "/assets/asset_udu0GUgvQNSbhYLteXM/frame-5.webp"
+    },
+    {
+      "name": "assets/029-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.4.contentImage",
+      "source": "/assets/asset_GURpzsgBZnSag1lcPyQ/frame-7.webp"
+    },
+    {
+      "name": "assets/030-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.5.contentImage",
+      "source": "/assets/asset_iYoQWdD5ENNcsUB4qso/frame-10.webp"
+    },
+    {
+      "name": "assets/031-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.6.contentImage",
+      "source": "/assets/asset_C9tWT5swQ3_Jgax77O0/frame-8.webp"
+    },
+    {
+      "name": "assets/032-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.7.contentImage",
+      "source": "/assets/asset_YMQXqh0SbpR92RgqIAY/frame-6.webp"
+    },
+    {
+      "name": "assets/033-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.8.contentImage",
+      "source": "/assets/asset_mCu1qzbDfL8o6TmxJoE/frame-4.webp"
+    },
+    {
+      "name": "assets/034-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.9.contentImage",
+      "source": "/assets/asset_QeTCp6WSUsJHCj2tGbM/frame-2.webp"
+    },
+    {
+      "name": "assets/035-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.10.contentImage",
+      "source": "/assets/asset_KZawSIE3uEtmD93w9ZY/e-mail-1920%D1%851080.webp"
+    },
+    {
+      "name": "assets/036-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.11.contentImage",
+      "source": "/assets/asset_BOSvFIbO2T8BWjxal5Y/chatgpt-image-2-%D0%B8%D1%8E%D0%BB-2026-%D0%B3-16_15_03-1.webp"
+    },
+    {
+      "name": "assets/037-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.15.contentImage",
+      "source": "/assets/asset_5gHy4l_cinASbaLqyuQ/image-30.webp"
+    },
+    {
+      "name": "assets/038-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.12.contentImage",
+      "source": "/assets/asset_7MRUzdG4VOJNB1YZfzQ/chatgpt-image-2-%D0%B8%D1%8E%D0%BB-2026-%D0%B3-16_11_51-1.webp"
+    },
+    {
+      "name": "assets/039-points-contentimage.webp",
+      "mime": "image/webp",
+      "original": "points.14.contentImage",
+      "source": "/assets/asset_VgEK0W-rpnc4dgL0FL0/image-31.webp"
+    },
+    {
+      "name": "assets/040-points-puzzleimage.webp",
+      "mime": "image/webp",
+      "original": "points.13.puzzleImage",
+      "source": "/assets/asset_simuadPL5k2ExTHIPpw/group-1321317475.webp"
+    }
+  ],
+  "skipped": []
+}

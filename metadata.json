@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "packageVersion": 1,
+  "exportedAt": "2026-07-03T07:24:02.229Z",
+  "published": true,
+  "project": {
+    "id": "interactive-map",
+    "type": "map",
+    "title": "MY.GAMES Kingdom",
+    "ownerId": "user_OajpHavtZdalr-bs",
+    "workspaceId": "workspace_XAywtzpDRlY3C3kL",
+    "visibility": "private",
+    "createdAt": "2026-06-25T12:53:37.341Z",
+    "updatedAt": "2026-07-03T07:23:54.012Z",
+    "publishedAt": "2026-07-03T07:23:54.012Z"
+  }
+}
